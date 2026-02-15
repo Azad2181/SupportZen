@@ -119,7 +119,7 @@ GET /health
 
 POST /chat
 
-Example Body: { "message": "Where is my order?", "session_id": "abc123"
+Example Body: { "message": " please suggest me a panjabi for eid?", "respone": great, please check these product code "abc123", "yx123", "c58", "z423"
 }
 
 ------------------------------------------------------------------------
