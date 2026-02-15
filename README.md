@@ -2,6 +2,8 @@
 
 ### AI-Powered Luxury Retail Customer Service Chatbot.
 
+### It's a confidential project so some features is hide but you can use it and modify for your requirements.
+
 SupportZen is a production-ready AI-powered customer service
 backend designed for luxury fashion retail brands.\
 It provides intelligent, scalable, and secure customer support using
